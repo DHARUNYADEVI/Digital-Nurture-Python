@@ -16,7 +16,7 @@ This repository contains SQL exercises and solutions completed as part of the CT
 ## Repository Structure
 
 ```
-CTS-ANSI-SQL/
+SQL solutions/
 │
 ├── database_setup.sql
 ├── create_tables.sql
@@ -24,12 +24,16 @@ CTS-ANSI-SQL/
 ├── queries.sql
 │
 ├── screenshots/
-│   ├── schema.png
-│   ├── tables.png
+│   ├── schemas and tables.png
+│   ├── users_table.png
+│   ├── events_table.png
+│   ├── registrations_table.png
 │   ├── insert_data.png
-│   ├── query_results_1.png
-│   ├── query_results_2.png
-│   └── join_query.png
+│   ├── query_3.png
+│   ├── query_6.png
+│   ├── query_20.png
+│   └── query_21.png
+│   
 │
 └── README.md
 ```
@@ -123,15 +127,33 @@ GROUP BY e.title;
 
 ## Screenshots
 
-The repository includes screenshots showing:
+Below are a few sample screenshots from the SQL exercises and queries included in this repository.
 
-- Database schema
-- Table creation
-- Inserted records
-- Query execution
-- Join query results
-- Aggregate query outputs
 
+### Database schema and Table creation
+  <img width="1202" height="1072" alt="schemas and tables" src="https://github.com/user-attachments/assets/c8cc7904-6ee4-4b0b-85d0-d7e8d05a8955" />
+
+  <img width="1204" height="1078" alt="users_table" src="https://github.com/user-attachments/assets/2d2ec335-2e10-456a-93e9-1aec4abcd4e3" />
+
+<img width="1205" height="1076" alt="events_table" src="https://github.com/user-attachments/assets/85161958-e89b-401c-ba78-1eb807b0a3ba" />
+
+<img width="1204" height="1076" alt="registrations_table" src="https://github.com/user-attachments/assets/da29f592-2b7b-41c9-b2c9-fe3c6a707753" />
+
+###  Inserted records
+<img width="1920" height="1080" alt="insert_data" src="https://github.com/user-attachments/assets/8dd18e95-52a5-4edf-beb6-ab14467f4982" />
+
+### Query execution
+<img width="597" height="479" alt="query_3" src="https://github.com/user-attachments/assets/f2792aef-4989-4634-ac63-6ab9f937c4a3" />
+
+  
+### Join query results
+<img width="1207" height="1078" alt="query_6" src="https://github.com/user-attachments/assets/38b57c75-43d4-4989-9ab2-53932b3d5874" />
+
+<img width="1203" height="1077" alt="query_20" src="https://github.com/user-attachments/assets/a5065bbe-82ea-42fc-860a-6cbc1192973c" />
+
+<img width="1205" height="1072" alt="query_21" src="https://github.com/user-attachments/assets/af3f39dc-e518-40c5-9624-93eaed8e1fe4" />
+
+> Note: Only a subset of screenshots is shown here. The repository contains solutions for all SQL exercises, including DDL, DML, Joins, Aggregate Functions, Subqueries, Views, Stored Procedures, and Database Design concepts.
 ---
 
 ## Learning Outcomes
@@ -150,6 +172,6 @@ This project demonstrates:
 
 ## Author
 
-Dharunyadevi S
+Dharunyadevi S (B.Tech-IT)
 
 CTS Digital Nurture Program
