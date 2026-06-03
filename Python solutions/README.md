@@ -100,6 +100,5 @@ Note: Only a subset of screenshots is shown here. The repository contains comple
 - GitHub
 
 ## Author
-Dharunyadevi S
-B.Tech-IT
-Saveetha Engineering College
+* Dharunyadevi S (B.Tech-IT)
+* Saveetha Engineering College
